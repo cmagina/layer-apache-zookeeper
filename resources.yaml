@@ -5,3 +5,7 @@ optional_resources:
     url: https://s3.amazonaws.com/jujubigdata/apache/x86_64/zookeeper-3.4.6-01b3938.tar.gz
     hash: 01b3938547cd620dc4c93efe07c0360411f4a66962a70500b163b59014046994
     hash_type: sha256
+  zookeeper-aarch64:
+    url: https://git.launchpad.net/~craig.magina/bigdata-data/plain/apache/aarch64/zookeeper-3.5.2-alpha-9b4de6.tar.gz
+    hash: 9b4de630105cf204f07c15f4a346fd47a99089a7f302522c69e87f928ef2941f
+    hash_type: sha256
